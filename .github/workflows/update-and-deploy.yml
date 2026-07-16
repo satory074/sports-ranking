@@ -1,0 +1,74 @@
+# データ更新とデプロイを1本のワークフローに統合している。
+# GITHUB_TOKEN による push は他のワークフローを発火しないため、
+# 分割するとデータ更新後の再デプロイが走らない点に注意。
+name: Update data and deploy
+
+on:
+  schedule:
+    - cron: '43 21 * * *' # 毎日 JST 6:43(毎時0分を避ける: cron混雑による遅延対策)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions: {}
+
+# 遅延した cron と手動実行の並走による push 競合・デプロイ競合を防ぐ
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # フェッチャー内の検証ゲートが失敗したソースはコミットされない(良データ保護)
+      - run: npx tsx scripts/fetch/index.ts
+      - name: Commit data if changed
+        run: |
+          git add public/data scripts/fetch/fifa-name-code.json
+          if git diff --cached --quiet; then
+            echo "No data changes; skipping commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "data: update rankings ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+  build-deploy:
+    needs: [update-data]
+    # push 時は update-data がスキップされるため always() で拾う
+    if: always() && (needs.update-data.result == 'success' || needs.update-data.result == 'skipped')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # update-data のデータコミットを含む最新を取得
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4

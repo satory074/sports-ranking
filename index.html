@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>スポーツ世界ランキング | World Sports Rankings</title>
+    <meta
+      name="description"
+      content="サッカー・野球・バレーボール・バスケットボール・ラグビーなど各競技の世界ランキングと推移を一覧できるサイト"
+    />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏆</text></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <div class="wordmark">
+          <span class="wordmark-en">WORLD RANKINGS</span>
+          <h1 class="wordmark-ja">スポーツ世界ランキング</h1>
+        </div>
+        <p class="header-updated" id="site-updated" aria-live="polite"></p>
+      </div>
+    </header>
+
+    <nav class="sport-nav" aria-label="競技">
+      <div class="wrap">
+        <div class="sport-tabs" id="sport-tabs" role="tablist"></div>
+      </div>
+    </nav>
+
+    <main class="wrap main" id="main">
+      <div class="controls">
+        <div class="segmented" id="gender-tabs" role="tablist" aria-label="カテゴリ"></div>
+        <p class="cat-updated" id="cat-updated"></p>
+      </div>
+
+      <div class="panes">
+        <section class="card table-card" aria-labelledby="table-heading">
+          <div class="card-head">
+            <h2 class="card-title" id="table-heading">最新ランキング</h2>
+          </div>
+          <div class="table-scroll">
+            <table class="rank-table" id="rank-table">
+              <thead>
+                <tr>
+                  <th scope="col" class="col-rank">順位</th>
+                  <th scope="col" class="col-team">チーム</th>
+                  <th scope="col" class="col-points">ポイント</th>
+                  <th scope="col" class="col-move">変動</th>
+                </tr>
+              </thead>
+              <tbody id="rank-tbody"></tbody>
+            </table>
+          </div>
+          <div class="table-foot">
+            <button type="button" class="btn-expand" id="btn-expand" hidden></button>
+          </div>
+        </section>
+
+        <section class="card chart-card" aria-labelledby="chart-heading">
+          <div class="card-head chart-head">
+            <h2 class="card-title" id="chart-heading">順位の推移</h2>
+            <div class="chart-tools">
+              <input
+                type="text"
+                id="team-search"
+                list="team-options"
+                placeholder="チームを追加…"
+                autocomplete="off"
+                aria-label="推移チャートにチームを追加"
+              />
+              <datalist id="team-options"></datalist>
+              <button type="button" class="btn-reset" id="btn-reset">リセット</button>
+            </div>
+          </div>
+          <p class="chart-note" id="chart-note" hidden></p>
+          <div class="chart-box" id="chart" role="img" aria-label="順位推移チャート"></div>
+        </section>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p id="source-line"></p>
+        <p>
+          順位・ポイントは各連盟の公表値です。サッカーの最新値およびホッケー女子は
+          <a href="https://en.wikipedia.org/wiki/Module:SportsRankings" target="_blank" rel="noopener">Wikipedia (CC BY-SA 4.0)</a>
+          のデータを利用しています。データは GitHub Actions で自動更新されます。
+        </p>
+      </div>
+    </footer>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

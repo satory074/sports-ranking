@@ -1,0 +1,22 @@
+{
+  "name": "sports-ranking",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "fetch-data": "tsx scripts/fetch/index.ts",
+    "backfill": "tsx scripts/backfill/index.ts"
+  },
+  "dependencies": {
+    "echarts": "^5.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.0.0"
+  }
+}
