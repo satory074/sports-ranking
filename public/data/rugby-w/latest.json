@@ -1,6 +1,6 @@
 {
 "id": "rugby-w",
-"updatedAt": "2026-07-13",
+"updatedAt": "2026-07-20",
 "entries": [
 {"rank":1,"code":"ENG","name":"England","points":98.09,"prevRank":1},
 {"rank":2,"code":"NZL","name":"New Zealand","points":91.6,"prevRank":2},
@@ -9,8 +9,8 @@
 {"rank":5,"code":"IRE","name":"Ireland","points":78.69,"prevRank":5},
 {"rank":6,"code":"ITA","name":"Italy","points":74.79,"prevRank":6},
 {"rank":7,"code":"SCO","name":"Scotland","points":74.4,"prevRank":7},
-{"rank":8,"code":"USA","name":"USA","points":74.05,"prevRank":9},
-{"rank":9,"code":"AUS","name":"Australia","points":74.03,"prevRank":8},
+{"rank":8,"code":"USA","name":"USA","points":74.05,"prevRank":8},
+{"rank":9,"code":"AUS","name":"Australia","points":74.03,"prevRank":9},
 {"rank":10,"code":"RSA","name":"South Africa","points":71.91,"prevRank":10},
 {"rank":11,"code":"JPN","name":"Japan","points":69.72,"prevRank":11},
 {"rank":12,"code":"WAL","name":"Wales","points":65.22,"prevRank":12},
