@@ -1,13 +1,13 @@
 {
 "id": "volleyball-m",
-"updatedAt": "2026-08-01",
+"updatedAt": "2026-08-02",
 "entries": [
-{"rank":1,"code":"POL","name":"Poland","points":405.79,"prevRank":1},
+{"rank":1,"code":"POL","name":"Poland","points":407.56,"prevRank":1},
 {"rank":2,"code":"ITA","name":"Italy","points":355.84,"prevRank":2},
 {"rank":3,"code":"RUS","name":"Russia","points":352.1,"prevRank":3},
-{"rank":4,"code":"USA","name":"USA","points":346.18,"prevRank":6},
-{"rank":5,"code":"JPN","name":"Japan","points":341.07,"prevRank":4},
-{"rank":6,"code":"SLO","name":"Slovenia","points":336.79,"prevRank":5},
+{"rank":4,"code":"SLO","name":"Slovenia","points":344.53,"prevRank":6},
+{"rank":5,"code":"USA","name":"USA","points":344.41,"prevRank":4},
+{"rank":6,"code":"JPN","name":"Japan","points":333.33,"prevRank":5},
 {"rank":7,"code":"BRA","name":"Brazil","points":312.13,"prevRank":7},
 {"rank":8,"code":"FRA","name":"France","points":302.59,"prevRank":8},
 {"rank":9,"code":"BUL","name":"Bulgaria","points":272.25,"prevRank":9},
