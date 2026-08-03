@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:35:59.704Z",
+  "generatedAt": "2026-08-03T22:37:55.001Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -60,8 +60,8 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/men",
-      "updatedAt": "2026-08-02",
-      "count": 129
+      "updatedAt": "2026-08-03",
+      "count": 134
     },
     {
       "id": "volleyball-w",
@@ -70,8 +70,8 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/women",
-      "updatedAt": "2026-08-02",
-      "count": 116
+      "updatedAt": "2026-08-03",
+      "count": 119
     },
     {
       "id": "basketball-m",
@@ -100,7 +100,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/mru",
-      "updatedAt": "2026-07-27",
+      "updatedAt": "2026-08-03",
       "count": 114
     },
     {
@@ -110,7 +110,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/wru",
-      "updatedAt": "2026-07-27",
+      "updatedAt": "2026-08-03",
       "count": 70
     },
     {
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-08-03",
+      "updatedAt": "2026-08-04",
       "count": 104
     },
     {
@@ -131,7 +131,7 @@
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
       "license": "Wikipedia (CC BY-SA 4.0) より取得",
-      "updatedAt": "2026-07-25",
+      "updatedAt": "2026-08-04",
       "count": 88
     },
     {
@@ -141,7 +141,7 @@
       "entity": "player",
       "source": "WTAランキング",
       "sourceUrl": "https://www.wtatennis.com/rankings/singles",
-      "updatedAt": "2026-07-27",
+      "updatedAt": "2026-08-03",
       "count": 100
     }
   ]
