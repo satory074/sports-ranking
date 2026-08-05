@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:41:54.132Z",
+  "generatedAt": "2026-08-05T22:40:15.527Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -70,8 +70,8 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/women",
-      "updatedAt": "2026-08-03",
-      "count": 119
+      "updatedAt": "2026-08-05",
+      "count": 121
     },
     {
       "id": "basketball-m",
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-08-05",
+      "updatedAt": "2026-08-06",
       "count": 104
     },
     {
