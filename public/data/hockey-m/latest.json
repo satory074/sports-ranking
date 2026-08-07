@@ -1,6 +1,6 @@
 {
 "id": "hockey-m",
-"updatedAt": "2026-08-07",
+"updatedAt": "2026-08-08",
 "entries": [
 {"rank":1,"code":"BEL","name":"Belgium","points":3838.25,"prevRank":1},
 {"rank":2,"code":"NED","name":"Netherlands","points":3613.06,"prevRank":2},
@@ -27,8 +27,8 @@
 {"rank":23,"code":"KOR","name":"South Korea","points":2070.58,"prevRank":23},
 {"rank":24,"code":"CHI","name":"Chile","points":2063.64,"prevRank":24},
 {"rank":25,"code":"OMA","name":"Oman","points":2037.62,"prevRank":25},
-{"rank":26,"code":"ITA","name":"Italy","points":1969.3,"prevRank":27},
-{"rank":27,"code":"USA","name":"USA","points":1959.93,"prevRank":26},
+{"rank":26,"code":"ITA","name":"Italy","points":1969.3,"prevRank":26},
+{"rank":27,"code":"USA","name":"USA","points":1959.93,"prevRank":27},
 {"rank":28,"code":"BAN","name":"Bangladesh","points":1859.85,"prevRank":28},
 {"rank":29,"code":"RUS","name":"Russia","points":1842.77,"prevRank":29},
 {"rank":30,"code":"CZE","name":"Czechia","points":1782.15,"prevRank":30},
