@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:55:35.762Z",
+  "generatedAt": "2026-08-19T21:58:16.005Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -60,7 +60,7 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/men",
-      "updatedAt": "2026-08-18",
+      "updatedAt": "2026-08-19",
       "count": 143
     },
     {
@@ -70,7 +70,7 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/women",
-      "updatedAt": "2026-08-18",
+      "updatedAt": "2026-08-19",
       "count": 124
     },
     {
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-08-19",
+      "updatedAt": "2026-08-20",
       "count": 104
     },
     {
