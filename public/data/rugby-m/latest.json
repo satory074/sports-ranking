@@ -1,9 +1,9 @@
 {
 "id": "rugby-m",
-"updatedAt": "2026-08-17",
+"updatedAt": "2026-08-24",
 "entries": [
-{"rank":1,"code":"RSA","name":"South Africa","points":93.96,"prevRank":1},
-{"rank":2,"code":"NZL","name":"New Zealand","points":92.28,"prevRank":2},
+{"rank":1,"code":"NZL","name":"New Zealand","points":94.03,"prevRank":2},
+{"rank":2,"code":"RSA","name":"South Africa","points":92.21,"prevRank":1},
 {"rank":3,"code":"IRE","name":"Ireland","points":88.08,"prevRank":3},
 {"rank":4,"code":"FRA","name":"France","points":87.43,"prevRank":4},
 {"rank":5,"code":"ENG","name":"England","points":85.68,"prevRank":5},

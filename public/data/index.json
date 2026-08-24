@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:55:39.653Z",
+  "generatedAt": "2026-08-24T21:58:36.487Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -60,7 +60,7 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/men",
-      "updatedAt": "2026-08-23",
+      "updatedAt": "2026-08-24",
       "count": 143
     },
     {
@@ -70,7 +70,7 @@
       "entity": "country",
       "source": "FIVB世界ランキング",
       "sourceUrl": "https://en.volleyballworld.com/volleyball/world-ranking/women",
-      "updatedAt": "2026-08-23",
+      "updatedAt": "2026-08-24",
       "count": 125
     },
     {
@@ -100,7 +100,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/mru",
-      "updatedAt": "2026-08-17",
+      "updatedAt": "2026-08-24",
       "count": 114
     },
     {
@@ -110,7 +110,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/wru",
-      "updatedAt": "2026-08-17",
+      "updatedAt": "2026-08-24",
       "count": 70
     },
     {
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-08-24",
+      "updatedAt": "2026-08-25",
       "count": 104
     },
     {
@@ -141,7 +141,7 @@
       "entity": "player",
       "source": "WTAランキング",
       "sourceUrl": "https://www.wtatennis.com/rankings/singles",
-      "updatedAt": "2026-08-10",
+      "updatedAt": "2026-08-24",
       "count": 100
     }
   ]

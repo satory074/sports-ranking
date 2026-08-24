@@ -1,6 +1,6 @@
 {
 "id": "volleyball-m",
-"updatedAt": "2026-08-23",
+"updatedAt": "2026-08-24",
 "entries": [
 {"rank":1,"code":"POL","name":"Poland","points":407.56,"prevRank":1},
 {"rank":2,"code":"ITA","name":"Italy","points":355.84,"prevRank":2},
@@ -23,7 +23,7 @@
 {"rank":19,"code":"IRI","name":"Iran","points":205.6,"prevRank":19},
 {"rank":20,"code":"CZE","name":"Czech Republic","points":203.22,"prevRank":20},
 {"rank":21,"code":"NED","name":"Netherlands","points":194.97,"prevRank":21},
-{"rank":22,"code":"PUR","name":"Puerto Rico","points":174.27,"prevRank":22},
+{"rank":22,"code":"PUR","name":"Puerto Rico","points":175.88,"prevRank":22},
 {"rank":23,"code":"GRE","name":"Greece","points":148.96,"prevRank":23},
 {"rank":24,"code":"QAT","name":"Qatar","points":147.82,"prevRank":24},
 {"rank":25,"code":"KOR","name":"Korea","points":140.15,"prevRank":25},
@@ -50,8 +50,8 @@
 {"rank":46,"code":"IND","name":"India","points":101.86,"prevRank":46},
 {"rank":47,"code":"HUN","name":"Hungary","points":94.3,"prevRank":47},
 {"rank":48,"code":"AUS","name":"Australia","points":93.81,"prevRank":48},
-{"rank":49,"code":"DOM","name":"Dominican Republic","points":93.74,"prevRank":49},
-{"rank":50,"code":"LAT","name":"Latvia","points":92.47,"prevRank":50},
+{"rank":49,"code":"LAT","name":"Latvia","points":92.47,"prevRank":50},
+{"rank":50,"code":"DOM","name":"Dominican Republic","points":92.12,"prevRank":49},
 {"rank":51,"code":"VEN","name":"Venezuela","points":88.42,"prevRank":51},
 {"rank":52,"code":"NGR","name":"Nigeria","points":83.59,"prevRank":52},
 {"rank":53,"code":"MKD","name":"North Macedonia","points":83.17,"prevRank":53},
