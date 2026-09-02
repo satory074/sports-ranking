@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:32:42.806Z",
+  "generatedAt": "2026-09-02T23:32:23.179Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -80,8 +80,8 @@
       "entity": "country",
       "source": "FIBA世界ランキング",
       "sourceUrl": "https://www.fiba.basketball/en/ranking/men",
-      "updatedAt": "2026-07-13",
-      "count": 154
+      "updatedAt": "2026-09-01",
+      "count": 159
     },
     {
       "id": "basketball-w",
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-09-02",
+      "updatedAt": "2026-09-03",
       "count": 104
     },
     {
