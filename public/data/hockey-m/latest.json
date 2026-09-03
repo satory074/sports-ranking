@@ -1,6 +1,6 @@
 {
 "id": "hockey-m",
-"updatedAt": "2026-09-03",
+"updatedAt": "2026-09-04",
 "entries": [
 {"rank":1,"code":"GER","name":"Germany","points":3720.41,"prevRank":1},
 {"rank":2,"code":"BEL","name":"Belgium","points":3692.9,"prevRank":2},
@@ -27,7 +27,7 @@
 {"rank":23,"code":"KOR","name":"South Korea","points":2070.58,"prevRank":23},
 {"rank":24,"code":"CHI","name":"Chile","points":2063.64,"prevRank":24},
 {"rank":25,"code":"OMA","name":"Oman","points":2037.62,"prevRank":25},
-{"rank":26,"code":"ITA","name":"Italy","points":1976.14,"prevRank":26},
+{"rank":26,"code":"ITA","name":"Italy","points":1972.75,"prevRank":26},
 {"rank":27,"code":"USA","name":"USA","points":1960.11,"prevRank":27},
 {"rank":28,"code":"BAN","name":"Bangladesh","points":1859.85,"prevRank":28},
 {"rank":29,"code":"RUS","name":"Russia","points":1842.77,"prevRank":29},
@@ -80,8 +80,8 @@
 {"rank":76,"code":"NEP","name":"Nepal","points":1325,"prevRank":76},
 {"rank":77,"code":"VIE","name":"Vietnam","points":1314.14,"prevRank":77},
 {"rank":78,"code":"PAN","name":"Panama","points":1313.88,"prevRank":78},
-{"rank":79,"code":"QAT","name":"Qatar","points":1310,"prevRank":79},
-{"rank":80,"code":"MLT","name":"Malta","points":1307.68,"prevRank":80},
+{"rank":79,"code":"MLT","name":"Malta","points":1311.06,"prevRank":80},
+{"rank":80,"code":"QAT","name":"Qatar","points":1310,"prevRank":79},
 {"rank":81,"code":"SLO","name":"Slovenia","points":1292.88,"prevRank":81},
 {"rank":82,"code":"CRC","name":"Costa Rica","points":1290.72,"prevRank":82},
 {"rank":83,"code":"BOL","name":"Bolivia","points":1285.15,"prevRank":83},
