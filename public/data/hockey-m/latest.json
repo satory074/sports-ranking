@@ -1,6 +1,6 @@
 {
 "id": "hockey-m",
-"updatedAt": "2026-09-08",
+"updatedAt": "2026-09-09",
 "entries": [
 {"rank":1,"code":"GER","name":"Germany","points":3720.41,"prevRank":1},
 {"rank":2,"code":"BEL","name":"Belgium","points":3692.9,"prevRank":2},
@@ -52,8 +52,8 @@
 {"rank":48,"code":"THA","name":"Thailand","points":1453.09,"prevRank":48},
 {"rank":49,"code":"KEN","name":"Kenya","points":1445.77,"prevRank":49},
 {"rank":50,"code":"GIB","name":"Gibraltar","points":1442.77,"prevRank":50},
-{"rank":51,"code":"SGP","name":"Singapore","points":1438.15,"prevRank":52},
-{"rank":52,"code":"HKG","name":"Hong Kong","points":1433.98,"prevRank":51},
+{"rank":51,"code":"SGP","name":"Singapore","points":1438.15,"prevRank":51},
+{"rank":52,"code":"HKG","name":"Hong Kong","points":1433.98,"prevRank":52},
 {"rank":53,"code":"LTU","name":"Lithuania","points":1424.82,"prevRank":53},
 {"rank":54,"code":"SVK","name":"Slovakia","points":1423.57,"prevRank":54},
 {"rank":55,"code":"BAR","name":"Barbados","points":1419.44,"prevRank":55},
