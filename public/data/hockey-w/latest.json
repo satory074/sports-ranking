@@ -1,6 +1,6 @@
 {
 "id": "hockey-w",
-"updatedAt": "2026-09-21",
+"updatedAt": "2026-09-23",
 "entries": [
 {"rank":1,"code":"NED","name":"Netherlands","points":4083.1,"prevRank":1},
 {"rank":2,"code":"ARG","name":"Argentina","points":3757,"prevRank":2},
@@ -20,7 +20,7 @@
 {"rank":16,"code":"FRA","name":"France","points":2094.21,"prevRank":16},
 {"rank":17,"code":"KOR","name":"South Korea","points":2066.22,"prevRank":17},
 {"rank":18,"code":"RSA","name":"South Africa","points":2050.93,"prevRank":18},
-{"rank":19,"code":"URU","name":"Uruguay","points":1995.47,"prevRank":20},
+{"rank":19,"code":"URU","name":"Uruguay","points":2003.01,"prevRank":20},
 {"rank":20,"code":"ITA","name":"Italy","points":1995.37,"prevRank":19},
 {"rank":21,"code":"MAS","name":"Malaysia","points":1912.09,"prevRank":21},
 {"rank":22,"code":"BLR","name":"Belarus","points":1803.25,"prevRank":22},
@@ -43,8 +43,8 @@
 {"rank":39,"code":"NGA","name":"Nigeria","points":1311.22,"prevRank":39},
 {"rank":40,"code":"KAZ","name":"Kazakhstan","points":1295.23,"prevRank":40},
 {"rank":41,"code":"GUA","name":"Guatemala","points":1249.23,"prevRank":41},
-{"rank":42,"code":"PAR","name":"Paraguay","points":1246.89,"prevRank":44},
-{"rank":43,"code":"TPE","name":"Chinese Taipei","points":1240.5,"prevRank":42},
+{"rank":42,"code":"TPE","name":"Chinese Taipei","points":1240.5,"prevRank":42},
+{"rank":43,"code":"PAR","name":"Paraguay","points":1239.35,"prevRank":44},
 {"rank":44,"code":"FIJ","name":"Fiji","points":1222.5,"prevRank":45},
 {"rank":45,"code":"INA","name":"Indonesia","points":1211.78,"prevRank":46},
 {"rank":46,"code":"PER","name":"Peru","points":1197.63,"prevRank":43},
