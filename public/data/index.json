@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T23:56:56.278Z",
+  "generatedAt": "2026-09-27T23:57:16.936Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-09-27",
+      "updatedAt": "2026-09-28",
       "count": 104
     },
     {
@@ -131,7 +131,7 @@
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
       "license": "Wikipedia (CC BY-SA 4.0) より取得",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-28",
       "count": 88
     },
     {
@@ -141,7 +141,7 @@
       "entity": "player",
       "source": "WTAランキング",
       "sourceUrl": "https://www.wtatennis.com/rankings/singles",
-      "updatedAt": "2026-09-21",
+      "updatedAt": "2026-09-28",
       "count": 100
     }
   ]
