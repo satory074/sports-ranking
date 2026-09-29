@@ -1,6 +1,6 @@
 {
 "id": "hockey-m",
-"updatedAt": "2026-09-28",
+"updatedAt": "2026-09-29",
 "entries": [
 {"rank":1,"code":"GER","name":"Germany","points":3720.41,"prevRank":1},
 {"rank":2,"code":"BEL","name":"Belgium","points":3692.9,"prevRank":2},
@@ -43,8 +43,8 @@
 {"rank":39,"code":"BLR","name":"Belarus","points":1622.58,"prevRank":39},
 {"rank":40,"code":"VEN","name":"Venezuela","points":1567.42,"prevRank":40},
 {"rank":41,"code":"CRO","name":"Croatia","points":1566.45,"prevRank":41},
-{"rank":42,"code":"SRI","name":"Sri Lanka","points":1550.58,"prevRank":43},
-{"rank":43,"code":"UZB","name":"Uzbekistan","points":1534.54,"prevRank":42},
+{"rank":42,"code":"SRI","name":"Sri Lanka","points":1550.58,"prevRank":42},
+{"rank":43,"code":"UZB","name":"Uzbekistan","points":1534.54,"prevRank":43},
 {"rank":44,"code":"THA","name":"Thailand","points":1519.73,"prevRank":44},
 {"rank":45,"code":"DOM","name":"Dominican Republic","points":1512.72,"prevRank":45},
 {"rank":46,"code":"TUR","name":"Türkiye","points":1507.07,"prevRank":46},
