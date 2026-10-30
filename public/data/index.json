@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:12:55.731Z",
+  "generatedAt": "2026-10-30T01:20:42.376Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-10-29",
+      "updatedAt": "2026-10-30",
       "count": 104
     },
     {
