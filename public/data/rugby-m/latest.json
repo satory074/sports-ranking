@@ -1,6 +1,6 @@
 {
 "id": "rugby-m",
-"updatedAt": "2026-11-02",
+"updatedAt": "2026-11-03",
 "entries": [
 {"rank":1,"code":"RSA","name":"South Africa","points":93.09,"prevRank":1},
 {"rank":2,"code":"NZL","name":"New Zealand","points":92.27,"prevRank":2},
@@ -80,7 +80,7 @@
 {"rank":76,"code":"VEN","name":"Venezuela","points":36.78,"prevRank":75},
 {"rank":77,"code":"BUL","name":"Bulgaria","points":36.75,"prevRank":76},
 {"rank":78,"code":"FIN","name":"Finland","points":36.35,"prevRank":77},
-{"rank":79,"code":"PER","name":"Peru","points":35.05,"prevRank":79},
+{"rank":79,"code":"PER","name":"Peru","points":35.75,"prevRank":79},
 {"rank":80,"code":"AND","name":"Andorra","points":34.63,"prevRank":80},
 {"rank":81,"code":"GHA","name":"Ghana","points":34.38,"prevRank":81},
 {"rank":82,"code":"VIN","name":"St Vincent and the Grenadines","points":33.62,"prevRank":82},
@@ -92,7 +92,7 @@
 {"rank":88,"code":"GUM","name":"Guam","points":30.51,"prevRank":89},
 {"rank":89,"code":"LES","name":"Lesotho","points":30.26,"prevRank":88},
 {"rank":90,"code":"IRI","name":"Iran","points":30,"prevRank":90},
-{"rank":91,"code":"CRC","name":"Costa Rica","points":29.75,"prevRank":91},
+{"rank":91,"code":"CRC","name":"Costa Rica","points":29.04,"prevRank":91},
 {"rank":92,"code":"CHN","name":"China","points":28.91,"prevRank":92},
 {"rank":93,"code":"BIH","name":"Bosnia & Herzegovina","points":28.36,"prevRank":93},
 {"rank":94,"code":"PNG","name":"Papua New Guinea","points":27.68,"prevRank":94},
