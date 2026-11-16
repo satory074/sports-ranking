@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:18:11.941Z",
+  "generatedAt": "2026-11-16T01:22:01.173Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -20,7 +20,7 @@
       "source": "FIFA女子ランキング",
       "sourceUrl": "https://inside.fifa.com/fifa-world-ranking/women",
       "license": "最新値は Wikipedia (CC BY-SA 4.0) より取得",
-      "updatedAt": "2026-06-16",
+      "updatedAt": "2026-10-20",
       "count": 198
     },
     {
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-11-15",
+      "updatedAt": "2026-11-16",
       "count": 104
     },
     {
