@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:10:08.649Z",
+  "generatedAt": "2026-11-18T03:07:41.828Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -30,7 +30,7 @@
       "entity": "country",
       "source": "WBSC世界ランキング",
       "sourceUrl": "https://www.wbsc.org/en/rankings/baseball/men",
-      "updatedAt": "2026-10-26",
+      "updatedAt": "2026-10-15",
       "count": 85
     },
     {
@@ -50,8 +50,8 @@
       "entity": "country",
       "source": "WBSC世界ランキング",
       "sourceUrl": "https://www.wbsc.org/en/rankings/softball/women",
-      "updatedAt": "2025-12-31",
-      "count": 70
+      "updatedAt": "2026-10-21",
+      "count": 69
     },
     {
       "id": "volleyball-m",
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-11-17",
+      "updatedAt": "2026-11-18",
       "count": 104
     },
     {
