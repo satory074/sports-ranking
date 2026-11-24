@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:57:28.406Z",
+  "generatedAt": "2026-11-24T05:29:43.715Z",
   "categories": [
     {
       "id": "soccer-m",
@@ -100,7 +100,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/mru",
-      "updatedAt": "2026-11-16",
+      "updatedAt": "2026-11-23",
       "count": 114
     },
     {
@@ -110,7 +110,7 @@
       "entity": "country",
       "source": "World Rugbyランキング",
       "sourceUrl": "https://www.worldrugby.org/rankings/wru",
-      "updatedAt": "2026-11-16",
+      "updatedAt": "2026-11-23",
       "count": 72
     },
     {
@@ -120,7 +120,7 @@
       "entity": "country",
       "source": "FIH世界ランキング",
       "sourceUrl": "https://www.fih.hockey/outdoor-hockey-rankings",
-      "updatedAt": "2026-11-23",
+      "updatedAt": "2026-11-24",
       "count": 104
     },
     {
